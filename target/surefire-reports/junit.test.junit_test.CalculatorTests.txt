@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: junit.test.junit_test.CalculatorTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.006 s <<< FAILURE! - in junit.test.junit_test.CalculatorTests
+initializationError(junit.test.junit_test.CalculatorTests)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Exception: Method addsTwoNumbers() should be public
+
